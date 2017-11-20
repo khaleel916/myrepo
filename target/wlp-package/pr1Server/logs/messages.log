@@ -1,0 +1,18 @@
+********************************************************************************
+product = WebSphere Application Server 17.0.0.2 (wlp-1.0.17.cl170220170523-1818)
+wlp.install.dir = D:/Practice/mvn/pr1/target/liberty/wlp/
+server.output.dir = D:/Practice/mvn/pr1/target/wlp-package/pr1Server/
+java.home = C:\Program Files\Java\jdk1.8.0_151\jre
+java.version = 1.8.0_151
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_151-b12)
+os = Windows 8.1 (6.3; amd64) (en_US)
+process = 1436@HP
+********************************************************************************
+[11/14/17 12:08:26:182 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server pr1Server has been launched.
+[11/14/17 12:08:26:215 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/17.0.0.2/lafiles/en.html
+[11/14/17 12:08:43:963 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 17.744 seconds
+[11/14/17 12:08:45:120 IST] 0000001b com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[11/14/17 12:08:53:497 IST] 0000001b com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [jsp-2.3, servlet-3.1, el-3.0].
+[11/14/17 12:08:53:498 IST] 0000001b com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 9.577 seconds.
+[11/14/17 12:08:53:498 IST] 0000001b com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0026I: The server pr1Server is ready to build a smaller package.
+[11/14/17 12:08:53:990 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server pr1Server stopped after 27.807 seconds.

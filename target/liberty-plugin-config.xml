@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>D:\Practice\mvn\pr1\target\liberty\wlp</installDirectory>
+    <serverDirectory>D:\Practice\mvn\pr1\target\liberty\wlp\usr\servers\pr1Server</serverDirectory>
+    <userDirectory>D:\Practice\mvn\pr1\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>D:\Practice\mvn\pr1\target\liberty\wlp\usr\servers\pr1Server</serverOutputDirectory>
+    <serverName>pr1Server</serverName>
+    <configFile>D:\Practice\mvn\pr1\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>pr1.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>com.ibm.websphere.appserver.runtime</groupId>
+        <artifactId>wlp-webProfile7</artifactId>
+        <version>17.0.0.2</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\SIRAJ\.m2\repository\com\ibm\websphere\appserver\runtime\wlp-webProfile7\17.0.0.2\wlp-webProfile7-17.0.0.2.zip</assemblyArchive>
+    <assemblyInstallDirectory>D:\Practice\mvn\pr1\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>D:\Practice\mvn\pr1\target\liberty\wlp\usr\servers\pr1Server\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+    <warSourceDirectory>D:\Practice\mvn\pr1\src\main\webapp</warSourceDirectory>
+</liberty-plugin-config>
